@@ -1,2 +1,2 @@
-# Thesis-Temporary
-Temporary thesis for sharing
+# Thesis (temp)
+Temporary repo for thesis sharing.
